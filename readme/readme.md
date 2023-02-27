@@ -1,3 +1,0 @@
-# the odin projects 
-
-#
