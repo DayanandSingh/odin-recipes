@@ -3,12 +3,12 @@ html {
     color: whitesmoke;
     background-color: #333;
 }
-a {
-    color: blue;
+a{
+    color: yellow;
     
 }
 a:visited{
-    color: aliceblue;
+    color: yellowgreen;
 }
 
 a:hover{
